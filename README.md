@@ -18,4 +18,4 @@ Made by **Naresh Devi**, with GitHub + Base44
 ---
 
 Thanks for visiting! 🙏
-Update README with project info
+
